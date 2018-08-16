@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "\"# WeatherApp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalSiteDev/WeatherApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlobalSiteDev/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/GlobalSiteDev/WeatherApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.88.0",
+    "yargs": "^12.0.1"
+  }
+}
